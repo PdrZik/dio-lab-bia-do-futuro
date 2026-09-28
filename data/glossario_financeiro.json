@@ -1,0 +1,92 @@
+[
+  {
+    "termo": "Reserva de emergência",
+    "sinonimos": ["reserva de emergencia", "reserva de emergência", "fundo de emergência", "colchão financeiro"],
+    "definicao": "Dinheiro separado para imprevistos (perda de renda, problema de saúde, conserto urgente). Deve ficar em aplicações de risco baixo e com resgate rápido, porque o objetivo é ter o valor disponível na hora da necessidade, não render o máximo. Uma referência comum é cobrir alguns meses de despesas essenciais; o número ideal depende da estabilidade da renda de cada pessoa.",
+    "fonte": "Conceito geral de educação financeira"
+  },
+  {
+    "termo": "Selic",
+    "sinonimos": ["taxa selic", "selic"],
+    "definicao": "Taxa básica de juros da economia brasileira, definida periodicamente pelo Copom (Banco Central). Ela serve de referência para o rendimento de vários investimentos de renda fixa e para o custo do crédito. O valor muda ao longo do tempo, então consulte o site do Banco Central para o número vigente.",
+    "fonte": "Conceito geral de educação financeira"
+  },
+  {
+    "termo": "CDI",
+    "sinonimos": ["cdi", "certificado de depósito interbancário"],
+    "definicao": "Taxa de referência usada nos empréstimos entre bancos, que acompanha de perto a Selic. Quando um investimento rende '102% do CDI', significa que ele paga 102% dessa taxa de referência. O valor do CDI muda com o tempo, então consulte fontes oficiais para o número vigente.",
+    "fonte": "Conceito geral de educação financeira"
+  },
+  {
+    "termo": "CDB",
+    "sinonimos": ["cdb", "certificado de depósito bancário"],
+    "definicao": "Título de renda fixa em que você empresta dinheiro a um banco e recebe juros por isso. Pode ter liquidez diária (resgate a qualquer momento) ou prazo definido. Costuma contar com a proteção do FGC dentro de limites por CPF e por instituição; confira as regras vigentes em fgc.org.br.",
+    "fonte": "Conceito geral de educação financeira"
+  },
+  {
+    "termo": "LCI/LCA",
+    "sinonimos": ["lci", "lca", "letra de crédito imobiliário", "letra de crédito do agronegócio"],
+    "definicao": "Títulos de renda fixa emitidos por bancos e lastreados em crédito imobiliário (LCI) ou do agronegócio (LCA). Para pessoa física, os rendimentos costumam ser isentos de Imposto de Renda. Normalmente exigem um prazo mínimo (carência) antes do resgate.",
+    "fonte": "Conceito geral de educação financeira"
+  },
+  {
+    "termo": "Tesouro Direto",
+    "sinonimos": ["tesouro direto", "tesouro selic", "títulos públicos", "titulos publicos"],
+    "definicao": "Programa em que você compra títulos públicos, ou seja, empresta dinheiro ao governo federal. O Tesouro Selic acompanha a taxa Selic e é bastante usado por iniciantes e para reserva de emergência por ter risco baixo e oscilação pequena.",
+    "fonte": "Conceito geral de educação financeira"
+  },
+  {
+    "termo": "Liquidez",
+    "sinonimos": ["liquidez", "resgate", "carência", "carencia"],
+    "definicao": "Rapidez com que você consegue transformar um investimento em dinheiro na conta. Liquidez diária significa poder resgatar em qualquer dia útil. Carência é o período em que o resgate não é permitido.",
+    "fonte": "Conceito geral de educação financeira"
+  },
+  {
+    "termo": "Risco",
+    "sinonimos": ["risco", "volatilidade", "oscilação", "oscilacao"],
+    "definicao": "Chance de o resultado de um investimento ser diferente do esperado, inclusive de perder parte do dinheiro. Em geral, quanto maior o potencial de retorno, maior o risco. Produtos de renda fixa tradicionais têm risco menor do que fundos de ações.",
+    "fonte": "Conceito geral de educação financeira"
+  },
+  {
+    "termo": "Imposto de Renda em renda fixa",
+    "sinonimos": ["imposto de renda", "ir", "tabela regressiva", "come-cotas", "come cotas"],
+    "definicao": "Na renda fixa tributada, o IR incide sobre o rendimento (não sobre o valor investido) e, pela tabela regressiva, a alíquota diminui quanto mais tempo o dinheiro fica aplicado. As alíquotas e regras podem mudar; confira a tabela vigente no site da Receita Federal.",
+    "fonte": "Conceito geral de educação financeira"
+  },
+  {
+    "termo": "Inflação",
+    "sinonimos": ["inflação", "inflacao", "ipca"],
+    "definicao": "Aumento geral dos preços ao longo do tempo, que reduz o poder de compra do dinheiro parado. No Brasil é medida principalmente pelo IPCA. Por isso é importante que o dinheiro aplicado renda pelo menos o suficiente para acompanhar a inflação.",
+    "fonte": "Conceito geral de educação financeira"
+  },
+  {
+    "termo": "Juros compostos",
+    "sinonimos": ["juros compostos", "juros sobre juros"],
+    "definicao": "Juros calculados sobre o valor inicial mais os juros já acumulados ('juros sobre juros'). Quanto maior o tempo e mais regulares os aportes, maior o efeito.",
+    "fonte": "Conceito geral de educação financeira"
+  },
+  {
+    "termo": "Fundo multimercado",
+    "sinonimos": ["fundo multimercado", "multimercado"],
+    "definicao": "Fundo de investimento que combina diferentes tipos de ativos (renda fixa, ações, câmbio etc.) conforme a estratégia do gestor. Tem risco médio e o resultado não é garantido; costuma cobrar taxas de administração.",
+    "fonte": "Conceito geral de educação financeira"
+  },
+  {
+    "termo": "Fundo de ações",
+    "sinonimos": ["fundo de ações", "fundo de acoes", "ações", "acoes", "bolsa de valores"],
+    "definicao": "Fundo que investe principalmente em ações de empresas. O valor da cota varia bastante no curto prazo, por isso o risco é alto e o horizonte de investimento costuma ser longo.",
+    "fonte": "Conceito geral de educação financeira"
+  },
+  {
+    "termo": "Diversificação",
+    "sinonimos": ["diversificação", "diversificacao", "diversificar"],
+    "definicao": "Distribuir o dinheiro entre diferentes investimentos para não depender de um só. A ideia é reduzir o impacto de um resultado ruim em um único ativo.",
+    "fonte": "Conceito geral de educação financeira"
+  },
+  {
+    "termo": "Taxa de poupança",
+    "sinonimos": ["taxa de poupança", "taxa de poupanca", "quanto consigo guardar", "capacidade de poupança"],
+    "definicao": "Percentual da renda que sobra depois das despesas do mês (renda menos gastos, dividido pela renda). É um indicador simples de quanto da renda fica disponível para metas e investimentos.",
+    "fonte": "Conceito geral de educação financeira"
+  }
+]
